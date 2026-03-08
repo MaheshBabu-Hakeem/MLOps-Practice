@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/104455455115600676/d18fa6fac6f84017a66488de87564d15/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '104455455115600676'
+lifecycle_stage: active
+run_id: d18fa6fac6f84017a66488de87564d15
+run_name: grandiose-wasp-146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772631449168
+status: 1
+tags: []
+user_id: codespace

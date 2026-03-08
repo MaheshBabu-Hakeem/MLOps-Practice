@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/104455455115600676/52529f36d99544f8a296e29158e5c00e/artifacts
+end_time: 1772632694794
+entry_point_name: ''
+experiment_id: '104455455115600676'
+lifecycle_stage: active
+run_id: 52529f36d99544f8a296e29158e5c00e
+run_name: legendary-cow-729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772632679503
+status: 3
+tags: []
+user_id: codespace

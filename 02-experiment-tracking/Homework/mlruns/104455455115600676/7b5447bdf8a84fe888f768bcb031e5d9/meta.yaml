@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/104455455115600676/7b5447bdf8a84fe888f768bcb031e5d9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '104455455115600676'
+lifecycle_stage: active
+run_id: 7b5447bdf8a84fe888f768bcb031e5d9
+run_name: monumental-skink-999
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772549888157
+status: 1
+tags: []
+user_id: codespace

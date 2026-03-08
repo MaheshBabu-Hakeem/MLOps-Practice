@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/104455455115600676/dbfc0fcf41414708a33fd2a308d6390a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '104455455115600676'
+lifecycle_stage: active
+run_id: dbfc0fcf41414708a33fd2a308d6390a
+run_name: useful-seal-490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772552644216
+status: 1
+tags: []
+user_id: codespace

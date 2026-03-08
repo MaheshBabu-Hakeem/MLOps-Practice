@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/104455455115600676/e09e5cff75d54667b8b5df9536fbebe3/artifacts
+end_time: 1772551453568
+entry_point_name: ''
+experiment_id: '104455455115600676'
+lifecycle_stage: active
+run_id: e09e5cff75d54667b8b5df9536fbebe3
+run_name: nebulous-skunk-565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772551440627
+status: 3
+tags: []
+user_id: codespace

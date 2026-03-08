@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/104455455115600676/d0183ea4aa5f4e0c86b2a462c0c1727c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '104455455115600676'
+lifecycle_stage: active
+run_id: d0183ea4aa5f4e0c86b2a462c0c1727c
+run_name: brawny-mule-534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772549176877
+status: 1
+tags: []
+user_id: codespace

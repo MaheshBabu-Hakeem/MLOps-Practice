@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/104455455115600676/8e194279070b4a9cb2efd890d4aff449/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '104455455115600676'
+lifecycle_stage: active
+run_id: 8e194279070b4a9cb2efd890d4aff449
+run_name: unruly-swan-578
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772632413458
+status: 1
+tags: []
+user_id: codespace

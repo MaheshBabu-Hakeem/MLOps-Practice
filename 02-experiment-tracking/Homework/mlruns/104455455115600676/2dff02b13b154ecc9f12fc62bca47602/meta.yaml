@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/104455455115600676/2dff02b13b154ecc9f12fc62bca47602/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '104455455115600676'
+lifecycle_stage: active
+run_id: 2dff02b13b154ecc9f12fc62bca47602
+run_name: fun-goat-754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772631425107
+status: 1
+tags: []
+user_id: codespace

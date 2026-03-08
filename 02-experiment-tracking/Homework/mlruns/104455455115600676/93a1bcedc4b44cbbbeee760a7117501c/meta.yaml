@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/104455455115600676/93a1bcedc4b44cbbbeee760a7117501c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '104455455115600676'
+lifecycle_stage: active
+run_id: 93a1bcedc4b44cbbbeee760a7117501c
+run_name: hilarious-slug-797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772550622145
+status: 1
+tags: []
+user_id: codespace

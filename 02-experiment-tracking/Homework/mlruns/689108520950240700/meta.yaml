@@ -1,0 +1,7 @@
+artifact_location: /workspaces/MLOps-Practice/02-experiment-tracking/Homework/mlruns/689108520950240700
+creation_time: 1772546122602
+experiment_id: '689108520950240700'
+last_update_time: 1772546122602
+lifecycle_stage: active
+name: MLflow Demo
+workspace: default

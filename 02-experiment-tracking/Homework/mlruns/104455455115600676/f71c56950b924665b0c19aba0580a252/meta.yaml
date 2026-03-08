@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/104455455115600676/f71c56950b924665b0c19aba0580a252/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '104455455115600676'
+lifecycle_stage: active
+run_id: f71c56950b924665b0c19aba0580a252
+run_name: entertaining-bat-974
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772550082485
+status: 1
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/104455455115600676/328e5e77e4d44e679f76de419166e344/artifacts
+end_time: 1772550917066
+entry_point_name: ''
+experiment_id: '104455455115600676'
+lifecycle_stage: active
+run_id: 328e5e77e4d44e679f76de419166e344
+run_name: resilient-shrike-854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772550904464
+status: 3
+tags: []
+user_id: codespace
