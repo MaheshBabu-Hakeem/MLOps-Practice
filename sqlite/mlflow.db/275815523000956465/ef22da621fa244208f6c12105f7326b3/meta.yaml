@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/ef22da621fa244208f6c12105f7326b3/artifacts
+end_time: 1772706428624
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: ef22da621fa244208f6c12105f7326b3
+run_name: placid-snipe-952
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772706425017
+status: 3
+tags: []
+user_id: codespace

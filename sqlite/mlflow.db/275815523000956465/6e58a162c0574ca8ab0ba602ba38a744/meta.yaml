@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/6e58a162c0574ca8ab0ba602ba38a744/artifacts
+end_time: 1772703971004
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: 6e58a162c0574ca8ab0ba602ba38a744
+run_name: able-shrimp-43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772703960604
+status: 3
+tags: []
+user_id: codespace

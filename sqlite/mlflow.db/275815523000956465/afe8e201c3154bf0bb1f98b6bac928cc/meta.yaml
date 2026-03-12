@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/afe8e201c3154bf0bb1f98b6bac928cc/artifacts
+end_time: 1772707665974
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: afe8e201c3154bf0bb1f98b6bac928cc
+run_name: resilient-worm-359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772707659851
+status: 3
+tags: []
+user_id: codespace

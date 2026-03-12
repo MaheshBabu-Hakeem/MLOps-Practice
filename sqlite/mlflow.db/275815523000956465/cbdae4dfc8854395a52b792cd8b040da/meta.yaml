@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/cbdae4dfc8854395a52b792cd8b040da/artifacts
+end_time: 1772716268741
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: cbdae4dfc8854395a52b792cd8b040da
+run_name: victorious-crab-800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772716262671
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/360932150560691143/4f8cc6ab323b44ccaa9e45d3d9bd09ad/artifacts
+end_time: 1772969181049
+entry_point_name: ''
+experiment_id: '360932150560691143'
+lifecycle_stage: active
+run_id: 4f8cc6ab323b44ccaa9e45d3d9bd09ad
+run_name: salty-gull-503
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772969180365
+status: 3
+tags: []
+user_id: codespace

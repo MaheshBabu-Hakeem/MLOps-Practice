@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/360932150560691143/d241b347528a4c038e37f88ed23766ef/artifacts
+end_time: 1772968158015
+entry_point_name: ''
+experiment_id: '360932150560691143'
+lifecycle_stage: active
+run_id: d241b347528a4c038e37f88ed23766ef
+run_name: adventurous-crow-769
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772968148013
+status: 3
+tags: []
+user_id: codespace

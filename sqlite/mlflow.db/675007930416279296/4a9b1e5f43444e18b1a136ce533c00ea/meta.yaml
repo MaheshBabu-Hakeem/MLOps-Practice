@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675007930416279296/4a9b1e5f43444e18b1a136ce533c00ea/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '675007930416279296'
+lifecycle_stage: active
+run_id: 4a9b1e5f43444e18b1a136ce533c00ea
+run_name: adaptable-vole-39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772704354334
+status: 1
+tags: []
+user_id: codespace

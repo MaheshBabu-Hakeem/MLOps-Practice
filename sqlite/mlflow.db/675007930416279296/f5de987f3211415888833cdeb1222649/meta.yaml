@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675007930416279296/f5de987f3211415888833cdeb1222649/artifacts
+end_time: 1772704107984
+entry_point_name: ''
+experiment_id: '675007930416279296'
+lifecycle_stage: active
+run_id: f5de987f3211415888833cdeb1222649
+run_name: vaunted-wolf-338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772704107959
+status: 4
+tags: []
+user_id: codespace

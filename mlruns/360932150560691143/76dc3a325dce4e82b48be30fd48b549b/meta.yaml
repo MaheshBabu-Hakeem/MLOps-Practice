@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/360932150560691143/76dc3a325dce4e82b48be30fd48b549b/artifacts
+end_time: 1772968147998
+entry_point_name: ''
+experiment_id: '360932150560691143'
+lifecycle_stage: active
+run_id: 76dc3a325dce4e82b48be30fd48b549b
+run_name: worried-loon-95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772968137844
+status: 3
+tags: []
+user_id: codespace

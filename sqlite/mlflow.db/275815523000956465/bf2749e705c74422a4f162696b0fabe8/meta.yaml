@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/bf2749e705c74422a4f162696b0fabe8/artifacts
+end_time: 1772707013133
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: bf2749e705c74422a4f162696b0fabe8
+run_name: luxuriant-moose-900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772707003647
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/b083887997d04638b00d20dbae37cca5/artifacts
+end_time: 1772706377255
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: b083887997d04638b00d20dbae37cca5
+run_name: dashing-croc-323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772706376587
+status: 3
+tags: []
+user_id: codespace

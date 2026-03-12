@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/360932150560691143/ffca40b9ab2946a9891f5a8e438ed554/artifacts
+end_time: 1772969179937
+entry_point_name: ''
+experiment_id: '360932150560691143'
+lifecycle_stage: active
+run_id: ffca40b9ab2946a9891f5a8e438ed554
+run_name: vaunted-roo-829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772969169322
+status: 3
+tags: []
+user_id: codespace

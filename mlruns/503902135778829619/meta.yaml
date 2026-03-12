@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/503902135778829619
+creation_time: 1772696360054
+experiment_id: '503902135778829619'
+last_update_time: 1772696360054
+lifecycle_stage: active
+name: test-rf

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/644274434992735981/e6446deb4c56421f8579e05d6765a63a/artifacts
+end_time: 1772970379587
+entry_point_name: ''
+experiment_id: '644274434992735981'
+lifecycle_stage: active
+run_id: e6446deb4c56421f8579e05d6765a63a
+run_name: flawless-wren-194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772970374330
+status: 3
+tags: []
+user_id: codespace

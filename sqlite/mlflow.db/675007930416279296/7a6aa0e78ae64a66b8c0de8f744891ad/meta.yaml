@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675007930416279296/7a6aa0e78ae64a66b8c0de8f744891ad/artifacts
+end_time: 1772706748953
+entry_point_name: ''
+experiment_id: '675007930416279296'
+lifecycle_stage: active
+run_id: 7a6aa0e78ae64a66b8c0de8f744891ad
+run_name: valuable-foal-957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772706738202
+status: 3
+tags: []
+user_id: codespace

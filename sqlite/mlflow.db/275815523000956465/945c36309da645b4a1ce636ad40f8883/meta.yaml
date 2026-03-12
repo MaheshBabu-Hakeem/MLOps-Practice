@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/945c36309da645b4a1ce636ad40f8883/artifacts
+end_time: 1772706165325
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: 945c36309da645b4a1ce636ad40f8883
+run_name: magnificent-lark-233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772706160998
+status: 3
+tags: []
+user_id: codespace

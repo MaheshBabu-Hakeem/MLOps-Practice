@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/360932150560691143/3266979a74f8477d88878c094d35b9af/artifacts
+end_time: 1772970089688
+entry_point_name: ''
+experiment_id: '360932150560691143'
+lifecycle_stage: active
+run_id: 3266979a74f8477d88878c094d35b9af
+run_name: luxuriant-grouse-345
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772970085755
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675007930416279296/1b6b66f2bea64e15a0c858e2f7985ec9/artifacts
+end_time: 1772706738186
+entry_point_name: ''
+experiment_id: '675007930416279296'
+lifecycle_stage: active
+run_id: 1b6b66f2bea64e15a0c858e2f7985ec9
+run_name: resilient-swan-427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772706733641
+status: 3
+tags: []
+user_id: codespace

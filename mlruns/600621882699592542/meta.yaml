@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/600621882699592542
+creation_time: 1772699380342
+experiment_id: '600621882699592542'
+last_update_time: 1772699380342
+lifecycle_stage: active
+name: random-forest-train
+workspace: default

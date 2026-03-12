@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675007930416279296/08fb051b26a542c7b9dfc0f15ee08e02/artifacts
+end_time: 1772706691580
+entry_point_name: ''
+experiment_id: '675007930416279296'
+lifecycle_stage: active
+run_id: 08fb051b26a542c7b9dfc0f15ee08e02
+run_name: upset-kit-291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772706686443
+status: 4
+tags: []
+user_id: codespace

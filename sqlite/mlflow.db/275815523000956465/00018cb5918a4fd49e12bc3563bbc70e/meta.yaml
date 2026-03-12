@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/00018cb5918a4fd49e12bc3563bbc70e/artifacts
+end_time: 1772707649102
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: 00018cb5918a4fd49e12bc3563bbc70e
+run_name: shivering-sow-517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772707639373
+status: 3
+tags: []
+user_id: codespace

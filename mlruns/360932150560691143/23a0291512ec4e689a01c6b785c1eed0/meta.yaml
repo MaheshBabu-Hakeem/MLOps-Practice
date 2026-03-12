@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/360932150560691143/23a0291512ec4e689a01c6b785c1eed0/artifacts
+end_time: 1772969042038
+entry_point_name: ''
+experiment_id: '360932150560691143'
+lifecycle_stage: active
+run_id: 23a0291512ec4e689a01c6b785c1eed0
+run_name: masked-kite-52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772969040944
+status: 3
+tags: []
+user_id: codespace

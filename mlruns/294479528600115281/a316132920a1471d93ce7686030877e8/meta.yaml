@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/294479528600115281/a316132920a1471d93ce7686030877e8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '294479528600115281'
+lifecycle_stage: active
+run_id: a316132920a1471d93ce7686030877e8
+run_name: likeable-worm-717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772967244700
+status: 1
+tags: []
+user_id: codespace

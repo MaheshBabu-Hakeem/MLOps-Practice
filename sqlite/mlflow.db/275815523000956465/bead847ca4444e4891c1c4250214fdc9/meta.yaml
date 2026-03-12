@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/bead847ca4444e4891c1c4250214fdc9/artifacts
+end_time: 1772706117906
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: bead847ca4444e4891c1c4250214fdc9
+run_name: whimsical-cat-834
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772706117505
+status: 3
+tags: []
+user_id: codespace

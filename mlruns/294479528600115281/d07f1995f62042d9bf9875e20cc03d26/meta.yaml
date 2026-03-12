@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/294479528600115281/d07f1995f62042d9bf9875e20cc03d26/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '294479528600115281'
+lifecycle_stage: active
+run_id: d07f1995f62042d9bf9875e20cc03d26
+run_name: flawless-bass-264
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772697444279
+status: 1
+tags: []
+user_id: codespace

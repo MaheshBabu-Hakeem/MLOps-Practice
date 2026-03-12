@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/360932150560691143/61bff1ddbe5e4f5aa189c69e6d79811a/artifacts
+end_time: 1772970064271
+entry_point_name: ''
+experiment_id: '360932150560691143'
+lifecycle_stage: active
+run_id: 61bff1ddbe5e4f5aa189c69e6d79811a
+run_name: incongruous-vole-926
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772970063162
+status: 3
+tags: []
+user_id: codespace

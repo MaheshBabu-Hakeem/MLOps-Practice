@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/05338d2e11dd4bb4a5a6fc20e17a316b/artifacts
+end_time: 1772706236314
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: 05338d2e11dd4bb4a5a6fc20e17a316b
+run_name: zealous-shark-471
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772706227189
+status: 4
+tags: []
+user_id: codespace

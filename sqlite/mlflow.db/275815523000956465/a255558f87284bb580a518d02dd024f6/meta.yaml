@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/a255558f87284bb580a518d02dd024f6/artifacts
+end_time: 1772706376161
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: a255558f87284bb580a518d02dd024f6
+run_name: luxuriant-owl-202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772706366717
+status: 3
+tags: []
+user_id: codespace

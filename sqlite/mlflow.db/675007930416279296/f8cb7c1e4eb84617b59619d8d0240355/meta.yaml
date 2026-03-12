@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675007930416279296/f8cb7c1e4eb84617b59619d8d0240355/artifacts
+end_time: 1772707851042
+entry_point_name: ''
+experiment_id: '675007930416279296'
+lifecycle_stage: active
+run_id: f8cb7c1e4eb84617b59619d8d0240355
+run_name: secretive-mule-911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772707846107
+status: 3
+tags: []
+user_id: codespace

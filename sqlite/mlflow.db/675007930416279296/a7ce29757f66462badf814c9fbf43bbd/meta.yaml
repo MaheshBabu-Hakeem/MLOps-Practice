@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675007930416279296/a7ce29757f66462badf814c9fbf43bbd/artifacts
+end_time: 1772706759555
+entry_point_name: ''
+experiment_id: '675007930416279296'
+lifecycle_stage: active
+run_id: a7ce29757f66462badf814c9fbf43bbd
+run_name: fearless-worm-220
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772706748971
+status: 3
+tags: []
+user_id: codespace

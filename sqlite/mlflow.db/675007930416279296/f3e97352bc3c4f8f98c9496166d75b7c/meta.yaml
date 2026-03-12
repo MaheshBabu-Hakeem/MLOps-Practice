@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675007930416279296/f3e97352bc3c4f8f98c9496166d75b7c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '675007930416279296'
+lifecycle_stage: active
+run_id: f3e97352bc3c4f8f98c9496166d75b7c
+run_name: crawling-stag-61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772713586694
+status: 1
+tags: []
+user_id: codespace

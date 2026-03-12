@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/0c9dc8a545854e0a9a01ecd834b49deb/artifacts
+end_time: 1772703960590
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: 0c9dc8a545854e0a9a01ecd834b49deb
+run_name: adorable-gnu-2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772703950329
+status: 3
+tags: []
+user_id: codespace

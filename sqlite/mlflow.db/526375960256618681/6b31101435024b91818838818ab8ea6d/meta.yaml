@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/526375960256618681/6b31101435024b91818838818ab8ea6d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526375960256618681'
+lifecycle_stage: active
+run_id: 6b31101435024b91818838818ab8ea6d
+run_name: bouncy-toad-733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772699721059
+status: 1
+tags: []
+user_id: codespace

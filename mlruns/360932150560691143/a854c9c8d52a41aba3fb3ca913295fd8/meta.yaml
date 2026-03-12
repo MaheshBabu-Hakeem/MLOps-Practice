@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/360932150560691143/a854c9c8d52a41aba3fb3ca913295fd8/artifacts
+end_time: 1772968134395
+entry_point_name: ''
+experiment_id: '360932150560691143'
+lifecycle_stage: active
+run_id: a854c9c8d52a41aba3fb3ca913295fd8
+run_name: exultant-bat-31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772968128145
+status: 3
+tags: []
+user_id: codespace

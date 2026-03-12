@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/65ea603c68104de1abcbca0dff0fb147/artifacts
+end_time: 1772706170293
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: 65ea603c68104de1abcbca0dff0fb147
+run_name: upset-sheep-599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772706168874
+status: 3
+tags: []
+user_id: codespace

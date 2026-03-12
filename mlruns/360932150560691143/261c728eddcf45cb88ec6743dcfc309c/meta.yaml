@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/360932150560691143/261c728eddcf45cb88ec6743dcfc309c/artifacts
+end_time: 1772968165497
+entry_point_name: ''
+experiment_id: '360932150560691143'
+lifecycle_stage: active
+run_id: 261c728eddcf45cb88ec6743dcfc309c
+run_name: colorful-cow-787
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772968159135
+status: 3
+tags: []
+user_id: codespace

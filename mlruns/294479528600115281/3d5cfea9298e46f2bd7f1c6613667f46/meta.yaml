@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/294479528600115281/3d5cfea9298e46f2bd7f1c6613667f46/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '294479528600115281'
+lifecycle_stage: active
+run_id: 3d5cfea9298e46f2bd7f1c6613667f46
+run_name: omniscient-roo-710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772694570838
+status: 1
+tags: []
+user_id: codespace

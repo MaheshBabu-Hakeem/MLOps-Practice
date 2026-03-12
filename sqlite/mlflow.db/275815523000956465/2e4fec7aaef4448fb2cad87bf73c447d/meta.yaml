@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/2e4fec7aaef4448fb2cad87bf73c447d/artifacts
+end_time: 1772707629499
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: 2e4fec7aaef4448fb2cad87bf73c447d
+run_name: glamorous-ape-410
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772707619807
+status: 3
+tags: []
+user_id: codespace

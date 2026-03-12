@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/644274434992735981/da65d9c5ed174f5594f9e6777c1c3a24/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '644274434992735981'
+lifecycle_stage: active
+run_id: da65d9c5ed174f5594f9e6777c1c3a24
+run_name: gaudy-stoat-514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772970164954
+status: 1
+tags: []
+user_id: codespace

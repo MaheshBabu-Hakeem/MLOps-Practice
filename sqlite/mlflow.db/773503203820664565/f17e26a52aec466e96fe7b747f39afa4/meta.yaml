@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/773503203820664565/f17e26a52aec466e96fe7b747f39afa4/artifacts
+end_time: 1772714448836
+entry_point_name: ''
+experiment_id: '773503203820664565'
+lifecycle_stage: active
+run_id: f17e26a52aec466e96fe7b747f39afa4
+run_name: bustling-croc-738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772714445814
+status: 3
+tags: []
+user_id: codespace

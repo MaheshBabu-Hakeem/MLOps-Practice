@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/360932150560691143/535e09e34151457b853c8d62679cf37d/artifacts
+end_time: 1772969180350
+entry_point_name: ''
+experiment_id: '360932150560691143'
+lifecycle_stage: active
+run_id: 535e09e34151457b853c8d62679cf37d
+run_name: clean-ray-398
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772969179953
+status: 3
+tags: []
+user_id: codespace

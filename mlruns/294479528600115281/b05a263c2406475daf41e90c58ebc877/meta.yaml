@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/294479528600115281/b05a263c2406475daf41e90c58ebc877/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '294479528600115281'
+lifecycle_stage: active
+run_id: b05a263c2406475daf41e90c58ebc877
+run_name: thundering-trout-767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772794226707
+status: 1
+tags: []
+user_id: codespace

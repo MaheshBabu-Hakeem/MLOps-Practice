@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675007930416279296/cddcb71605b84779a6396c10e8e82bbb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '675007930416279296'
+lifecycle_stage: active
+run_id: cddcb71605b84779a6396c10e8e82bbb
+run_name: dapper-snail-471
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772713847587
+status: 1
+tags: []
+user_id: codespace

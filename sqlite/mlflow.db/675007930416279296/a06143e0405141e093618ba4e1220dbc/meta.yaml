@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675007930416279296/a06143e0405141e093618ba4e1220dbc/artifacts
+end_time: 1772712406294
+entry_point_name: ''
+experiment_id: '675007930416279296'
+lifecycle_stage: active
+run_id: a06143e0405141e093618ba4e1220dbc
+run_name: brawny-elk-918
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772712401441
+status: 3
+tags: []
+user_id: codespace

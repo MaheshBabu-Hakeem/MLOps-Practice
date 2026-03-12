@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/360932150560691143/caee25c0207a46ef8a2b131fde304491/artifacts
+end_time: 1772969001338
+entry_point_name: ''
+experiment_id: '360932150560691143'
+lifecycle_stage: active
+run_id: caee25c0207a46ef8a2b131fde304491
+run_name: worried-stag-371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772968988394
+status: 3
+tags: []
+user_id: codespace

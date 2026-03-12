@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/526375960256618681/cf36ec0a263c4410841ffb1f5a35d260/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526375960256618681'
+lifecycle_stage: active
+run_id: cf36ec0a263c4410841ffb1f5a35d260
+run_name: honorable-boar-350
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772713947108
+status: 1
+tags: []
+user_id: codespace

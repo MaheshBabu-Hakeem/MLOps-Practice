@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/360932150560691143/79c696aa4f9c455c8dc3a9cb95d9dddf/artifacts
+end_time: 1772969047102
+entry_point_name: ''
+experiment_id: '360932150560691143'
+lifecycle_stage: active
+run_id: 79c696aa4f9c455c8dc3a9cb95d9dddf
+run_name: rogue-foal-846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772969042054
+status: 3
+tags: []
+user_id: codespace

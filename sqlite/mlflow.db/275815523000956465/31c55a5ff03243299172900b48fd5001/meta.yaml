@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/31c55a5ff03243299172900b48fd5001/artifacts
+end_time: 1772706821983
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: 31c55a5ff03243299172900b48fd5001
+run_name: vaunted-shrike-569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772706816114
+status: 3
+tags: []
+user_id: codespace

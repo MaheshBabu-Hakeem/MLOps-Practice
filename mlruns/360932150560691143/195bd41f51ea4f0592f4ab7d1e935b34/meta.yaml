@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/360932150560691143/195bd41f51ea4f0592f4ab7d1e935b34/artifacts
+end_time: 1772969232423
+entry_point_name: ''
+experiment_id: '360932150560691143'
+lifecycle_stage: active
+run_id: 195bd41f51ea4f0592f4ab7d1e935b34
+run_name: youthful-fawn-154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772969227711
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/adaa41b2a3f24d65a2c08c3aebb0f96b/artifacts
+end_time: 1772707020729
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: adaa41b2a3f24d65a2c08c3aebb0f96b
+run_name: popular-rook-282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772707014403
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/360932150560691143/3abd41fa56d1472986d7389763351cf8/artifacts
+end_time: 1772969031380
+entry_point_name: ''
+experiment_id: '360932150560691143'
+lifecycle_stage: active
+run_id: 3abd41fa56d1472986d7389763351cf8
+run_name: nimble-fawn-829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772969024468
+status: 3
+tags: []
+user_id: codespace

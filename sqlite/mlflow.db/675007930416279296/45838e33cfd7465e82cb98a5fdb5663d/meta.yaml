@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675007930416279296/45838e33cfd7465e82cb98a5fdb5663d/artifacts
+end_time: 1772704720401
+entry_point_name: ''
+experiment_id: '675007930416279296'
+lifecycle_stage: active
+run_id: 45838e33cfd7465e82cb98a5fdb5663d
+run_name: rare-snipe-776
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772704720377
+status: 4
+tags: []
+user_id: codespace

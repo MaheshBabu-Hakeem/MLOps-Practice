@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/4c8373e446124c23af12b70c08bf3268/artifacts
+end_time: 1772716240334
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: 4c8373e446124c23af12b70c08bf3268
+run_name: burly-hawk-488
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772716237314
+status: 3
+tags: []
+user_id: codespace

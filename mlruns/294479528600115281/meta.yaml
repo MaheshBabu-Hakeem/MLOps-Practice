@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/294479528600115281
+creation_time: 1772694570313
+experiment_id: '294479528600115281'
+last_update_time: 1772694570313
+lifecycle_stage: active
+name: random-forest-taxi_test

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675007930416279296/e0c5f06886de4b129107cef67cc47750/artifacts
+end_time: 1772712759907
+entry_point_name: ''
+experiment_id: '675007930416279296'
+lifecycle_stage: active
+run_id: e0c5f06886de4b129107cef67cc47750
+run_name: youthful-elk-604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772712754315
+status: 3
+tags: []
+user_id: codespace

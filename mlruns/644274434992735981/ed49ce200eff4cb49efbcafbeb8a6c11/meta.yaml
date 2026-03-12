@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/644274434992735981/ed49ce200eff4cb49efbcafbeb8a6c11/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '644274434992735981'
+lifecycle_stage: active
+run_id: ed49ce200eff4cb49efbcafbeb8a6c11
+run_name: gifted-hawk-632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772970282873
+status: 1
+tags: []
+user_id: codespace

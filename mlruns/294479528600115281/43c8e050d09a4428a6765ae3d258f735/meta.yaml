@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/294479528600115281/43c8e050d09a4428a6765ae3d258f735/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '294479528600115281'
+lifecycle_stage: active
+run_id: 43c8e050d09a4428a6765ae3d258f735
+run_name: brawny-conch-595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772697074292
+status: 1
+tags: []
+user_id: codespace

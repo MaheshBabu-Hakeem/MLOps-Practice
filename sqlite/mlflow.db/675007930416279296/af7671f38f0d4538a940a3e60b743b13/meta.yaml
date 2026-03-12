@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675007930416279296/af7671f38f0d4538a940a3e60b743b13/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '675007930416279296'
+lifecycle_stage: active
+run_id: af7671f38f0d4538a940a3e60b743b13
+run_name: sneaky-bee-965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772707092300
+status: 1
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/360932150560691143/adac1383925546999faf074b5bc14060/artifacts
+end_time: 1772968179893
+entry_point_name: ''
+experiment_id: '360932150560691143'
+lifecycle_stage: active
+run_id: adac1383925546999faf074b5bc14060
+run_name: tasteful-snake-260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772968178788
+status: 3
+tags: []
+user_id: codespace

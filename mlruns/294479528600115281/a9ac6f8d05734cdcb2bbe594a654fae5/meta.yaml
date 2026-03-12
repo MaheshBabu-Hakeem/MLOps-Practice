@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/294479528600115281/a9ac6f8d05734cdcb2bbe594a654fae5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '294479528600115281'
+lifecycle_stage: active
+run_id: a9ac6f8d05734cdcb2bbe594a654fae5
+run_name: classy-colt-610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772696448246
+status: 1
+tags: []
+user_id: codespace

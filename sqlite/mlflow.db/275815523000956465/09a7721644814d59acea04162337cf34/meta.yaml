@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/09a7721644814d59acea04162337cf34/artifacts
+end_time: 1772706429714
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: 09a7721644814d59acea04162337cf34
+run_name: beautiful-croc-795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772706428648
+status: 3
+tags: []
+user_id: codespace

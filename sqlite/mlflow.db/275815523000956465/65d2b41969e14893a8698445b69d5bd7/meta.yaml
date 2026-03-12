@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/65d2b41969e14893a8698445b69d5bd7/artifacts
+end_time: 1772716262656
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: 65d2b41969e14893a8698445b69d5bd7
+run_name: nebulous-donkey-73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772716261525
+status: 3
+tags: []
+user_id: codespace

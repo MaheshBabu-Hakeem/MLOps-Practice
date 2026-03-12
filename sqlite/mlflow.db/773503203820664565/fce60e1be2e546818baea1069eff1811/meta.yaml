@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/773503203820664565/fce60e1be2e546818baea1069eff1811/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '773503203820664565'
+lifecycle_stage: active
+run_id: fce60e1be2e546818baea1069eff1811
+run_name: overjoyed-conch-923
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772714622949
+status: 1
+tags: []
+user_id: codespace

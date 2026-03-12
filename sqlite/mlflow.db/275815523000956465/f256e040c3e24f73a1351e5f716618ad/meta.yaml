@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/f256e040c3e24f73a1351e5f716618ad/artifacts
+end_time: 1772706179428
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: f256e040c3e24f73a1351e5f716618ad
+run_name: carefree-mole-735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772706173751
+status: 3
+tags: []
+user_id: codespace

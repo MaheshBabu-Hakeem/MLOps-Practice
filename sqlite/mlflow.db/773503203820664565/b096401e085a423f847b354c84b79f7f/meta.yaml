@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/773503203820664565/b096401e085a423f847b354c84b79f7f/artifacts
+end_time: 1772714504239
+entry_point_name: ''
+experiment_id: '773503203820664565'
+lifecycle_stage: active
+run_id: b096401e085a423f847b354c84b79f7f
+run_name: fun-carp-898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772714502080
+status: 3
+tags: []
+user_id: codespace

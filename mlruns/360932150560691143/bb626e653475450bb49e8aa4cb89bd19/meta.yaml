@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/360932150560691143/bb626e653475450bb49e8aa4cb89bd19/artifacts
+end_time: 1772969202120
+entry_point_name: ''
+experiment_id: '360932150560691143'
+lifecycle_stage: active
+run_id: bb626e653475450bb49e8aa4cb89bd19
+run_name: skillful-swan-413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772969191348
+status: 3
+tags: []
+user_id: codespace

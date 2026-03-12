@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/5546769ef0054f7bbba1ebe7bd0a2e1b/artifacts
+end_time: 1772716251121
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: 5546769ef0054f7bbba1ebe7bd0a2e1b
+run_name: sneaky-frog-42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772716240355
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/5276231f55bc42e78d04d323fcfb6f08/artifacts
+end_time: 1772707065941
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: 5276231f55bc42e78d04d323fcfb6f08
+run_name: righteous-koi-465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772707064795
+status: 3
+tags: []
+user_id: codespace

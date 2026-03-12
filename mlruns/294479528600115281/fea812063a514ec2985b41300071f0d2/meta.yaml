@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/294479528600115281/fea812063a514ec2985b41300071f0d2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '294479528600115281'
+lifecycle_stage: active
+run_id: fea812063a514ec2985b41300071f0d2
+run_name: debonair-grouse-646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772697217844
+status: 1
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/644274434992735981/2b074c7eb4ae4376bc611094c033b93b/artifacts
+end_time: 1772970354628
+entry_point_name: ''
+experiment_id: '644274434992735981'
+lifecycle_stage: active
+run_id: 2b074c7eb4ae4376bc611094c033b93b
+run_name: overjoyed-midge-738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772970349150
+status: 4
+tags: []
+user_id: codespace

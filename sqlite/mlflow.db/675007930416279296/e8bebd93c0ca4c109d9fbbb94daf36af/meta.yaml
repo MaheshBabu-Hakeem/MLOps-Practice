@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675007930416279296/e8bebd93c0ca4c109d9fbbb94daf36af/artifacts
+end_time: 1772706765907
+entry_point_name: ''
+experiment_id: '675007930416279296'
+lifecycle_stage: active
+run_id: e8bebd93c0ca4c109d9fbbb94daf36af
+run_name: gifted-mule-84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772706759571
+status: 3
+tags: []
+user_id: codespace

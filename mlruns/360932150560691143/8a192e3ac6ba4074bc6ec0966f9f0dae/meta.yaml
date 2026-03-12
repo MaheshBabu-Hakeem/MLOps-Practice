@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/360932150560691143/8a192e3ac6ba4074bc6ec0966f9f0dae/artifacts
+end_time: 1772970095500
+entry_point_name: ''
+experiment_id: '360932150560691143'
+lifecycle_stage: active
+run_id: 8a192e3ac6ba4074bc6ec0966f9f0dae
+run_name: gentle-elk-699
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772970089705
+status: 3
+tags: []
+user_id: codespace

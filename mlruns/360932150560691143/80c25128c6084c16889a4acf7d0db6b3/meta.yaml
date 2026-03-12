@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/360932150560691143/80c25128c6084c16889a4acf7d0db6b3/artifacts
+end_time: 1772968128129
+entry_point_name: ''
+experiment_id: '360932150560691143'
+lifecycle_stage: active
+run_id: 80c25128c6084c16889a4acf7d0db6b3
+run_name: charming-donkey-21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772968127508
+status: 3
+tags: []
+user_id: codespace

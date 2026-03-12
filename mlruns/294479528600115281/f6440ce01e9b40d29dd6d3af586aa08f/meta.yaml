@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/294479528600115281/f6440ce01e9b40d29dd6d3af586aa08f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '294479528600115281'
+lifecycle_stage: active
+run_id: f6440ce01e9b40d29dd6d3af586aa08f
+run_name: worried-rat-766
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772788885710
+status: 1
+tags: []
+user_id: codespace

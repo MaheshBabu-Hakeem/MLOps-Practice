@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/294479528600115281/e848499a7c52403ba6c1c5211fa964e2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '294479528600115281'
+lifecycle_stage: active
+run_id: e848499a7c52403ba6c1c5211fa964e2
+run_name: rumbling-bird-489
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772793412212
+status: 1
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/f6d74677aa9040ad8e8387412c4d060b/artifacts
+end_time: 1772706408409
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: f6d74677aa9040ad8e8387412c4d060b
+run_name: rogue-mouse-268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772706407353
+status: 3
+tags: []
+user_id: codespace

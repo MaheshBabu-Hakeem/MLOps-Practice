@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/f4980de8c99b407a86567968591d14c9/artifacts
+end_time: 1772707064780
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: f4980de8c99b407a86567968591d14c9
+run_name: rogue-calf-643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772707061804
+status: 3
+tags: []
+user_id: codespace

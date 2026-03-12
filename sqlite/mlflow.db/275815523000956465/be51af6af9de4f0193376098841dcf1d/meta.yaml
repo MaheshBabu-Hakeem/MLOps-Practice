@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/be51af6af9de4f0193376098841dcf1d/artifacts
+end_time: 1772706844247
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: be51af6af9de4f0193376098841dcf1d
+run_name: treasured-gnat-100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772706834598
+status: 3
+tags: []
+user_id: codespace

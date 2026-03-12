@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/360932150560691143/f69a5257e3464d2c9177f4566d810c68/artifacts
+end_time: 1772969725277
+entry_point_name: ''
+experiment_id: '360932150560691143'
+lifecycle_stage: active
+run_id: f69a5257e3464d2c9177f4566d810c68
+run_name: bittersweet-shad-221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772969722361
+status: 3
+tags: []
+user_id: codespace

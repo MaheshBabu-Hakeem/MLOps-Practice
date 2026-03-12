@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/736a52e4d4574f508545fa0ec17054e7/artifacts
+end_time: 1772703984133
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: 736a52e4d4574f508545fa0ec17054e7
+run_name: thoughtful-kite-265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772703978807
+status: 3
+tags: []
+user_id: codespace

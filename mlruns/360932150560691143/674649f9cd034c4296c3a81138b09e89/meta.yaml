@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/360932150560691143/674649f9cd034c4296c3a81138b09e89/artifacts
+end_time: 1772969248623
+entry_point_name: ''
+experiment_id: '360932150560691143'
+lifecycle_stage: active
+run_id: 674649f9cd034c4296c3a81138b09e89
+run_name: clumsy-mare-967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772969242143
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/28c23e8eee9046e4a9fa52eadb42a5d2/artifacts
+end_time: 1772703988297
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: 28c23e8eee9046e4a9fa52eadb42a5d2
+run_name: orderly-elk-675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772703984148
+status: 3
+tags: []
+user_id: codespace

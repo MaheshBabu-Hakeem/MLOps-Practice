@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/360932150560691143/1da118a4176e42b58c26a5b219f5775e/artifacts
+end_time: 1772968137817
+entry_point_name: ''
+experiment_id: '360932150560691143'
+lifecycle_stage: active
+run_id: 1da118a4176e42b58c26a5b219f5775e
+run_name: melodic-shoat-426
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772968134411
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675007930416279296/1877fdfc39b7432984e474e5c6d14efd/artifacts
+end_time: 1772705769808
+entry_point_name: ''
+experiment_id: '675007930416279296'
+lifecycle_stage: active
+run_id: 1877fdfc39b7432984e474e5c6d14efd
+run_name: nebulous-robin-233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772705769776
+status: 4
+tags: []
+user_id: codespace

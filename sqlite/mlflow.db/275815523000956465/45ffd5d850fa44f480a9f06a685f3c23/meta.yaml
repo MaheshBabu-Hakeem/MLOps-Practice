@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/45ffd5d850fa44f480a9f06a685f3c23/artifacts
+end_time: 1772707688383
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: 45ffd5d850fa44f480a9f06a685f3c23
+run_name: mysterious-croc-467
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772707682777
+status: 3
+tags: []
+user_id: codespace

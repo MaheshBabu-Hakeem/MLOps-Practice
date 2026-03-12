@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/360932150560691143/d64bbbf3d6484d3a936cd13c51e00e14/artifacts
+end_time: 1772970041376
+entry_point_name: ''
+experiment_id: '360932150560691143'
+lifecycle_stage: active
+run_id: d64bbbf3d6484d3a936cd13c51e00e14
+run_name: bedecked-shoat-313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772970037868
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675007930416279296/9cf8ec8a62fc4984bf79c399b63e86cb/artifacts
+end_time: 1772704395815
+entry_point_name: ''
+experiment_id: '675007930416279296'
+lifecycle_stage: active
+run_id: 9cf8ec8a62fc4984bf79c399b63e86cb
+run_name: debonair-hare-546
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772704395768
+status: 4
+tags: []
+user_id: codespace

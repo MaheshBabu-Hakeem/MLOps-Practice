@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/360932150560691143/5396f2cc44a54059bb14c76afbaeac46/artifacts
+end_time: 1772970084687
+entry_point_name: ''
+experiment_id: '360932150560691143'
+lifecycle_stage: active
+run_id: 5396f2cc44a54059bb14c76afbaeac46
+run_name: amazing-penguin-261
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772970081365
+status: 3
+tags: []
+user_id: codespace

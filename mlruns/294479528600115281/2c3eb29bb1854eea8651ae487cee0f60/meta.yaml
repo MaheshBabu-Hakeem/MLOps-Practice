@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/294479528600115281/2c3eb29bb1854eea8651ae487cee0f60/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '294479528600115281'
+lifecycle_stage: active
+run_id: 2c3eb29bb1854eea8651ae487cee0f60
+run_name: fortunate-panda-466
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772794300625
+status: 1
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/360932150560691143/f406d61238c54707ab1c3234b1c7972b/artifacts
+end_time: 1772970071453
+entry_point_name: ''
+experiment_id: '360932150560691143'
+lifecycle_stage: active
+run_id: f406d61238c54707ab1c3234b1c7972b
+run_name: unequaled-rook-452
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772970064289
+status: 3
+tags: []
+user_id: codespace

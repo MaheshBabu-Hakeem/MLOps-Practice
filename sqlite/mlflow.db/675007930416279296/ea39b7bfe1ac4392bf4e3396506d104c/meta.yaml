@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675007930416279296/ea39b7bfe1ac4392bf4e3396506d104c/artifacts
+end_time: 1772705036191
+entry_point_name: ''
+experiment_id: '675007930416279296'
+lifecycle_stage: active
+run_id: ea39b7bfe1ac4392bf4e3396506d104c
+run_name: ambitious-gull-645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772705036159
+status: 4
+tags: []
+user_id: codespace

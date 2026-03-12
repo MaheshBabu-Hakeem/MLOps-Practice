@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/644274434992735981/a564a91cd7d349f0b8261c5f1e572880/artifacts
+end_time: 1772969789509
+entry_point_name: ''
+experiment_id: '644274434992735981'
+lifecycle_stage: active
+run_id: a564a91cd7d349f0b8261c5f1e572880
+run_name: spiffy-snail-574
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772969789454
+status: 4
+tags: []
+user_id: codespace

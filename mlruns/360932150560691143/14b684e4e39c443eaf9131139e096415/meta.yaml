@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/360932150560691143/14b684e4e39c443eaf9131139e096415/artifacts
+end_time: 1772969191327
+entry_point_name: ''
+experiment_id: '360932150560691143'
+lifecycle_stage: active
+run_id: 14b684e4e39c443eaf9131139e096415
+run_name: handsome-bee-349
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772969187718
+status: 3
+tags: []
+user_id: codespace

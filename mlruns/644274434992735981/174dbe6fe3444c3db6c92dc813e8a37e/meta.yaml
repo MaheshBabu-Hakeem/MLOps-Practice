@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/644274434992735981/174dbe6fe3444c3db6c92dc813e8a37e/artifacts
+end_time: 1772970390716
+entry_point_name: ''
+experiment_id: '644274434992735981'
+lifecycle_stage: active
+run_id: 174dbe6fe3444c3db6c92dc813e8a37e
+run_name: sneaky-slug-497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772970379608
+status: 3
+tags: []
+user_id: codespace

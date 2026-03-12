@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/632030226643455504/71932e93ab674b70ad8e1edde7735cc8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '632030226643455504'
+lifecycle_stage: active
+run_id: 71932e93ab674b70ad8e1edde7735cc8
+run_name: unique-hare-856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772693788878
+status: 1
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/63bee539e79140f2a452885badbceac7/artifacts
+end_time: 1772703972024
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: 63bee539e79140f2a452885badbceac7
+run_name: loud-turtle-429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772703971019
+status: 3
+tags: []
+user_id: codespace

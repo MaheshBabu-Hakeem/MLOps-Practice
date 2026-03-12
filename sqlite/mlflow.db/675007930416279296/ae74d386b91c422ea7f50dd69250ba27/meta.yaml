@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675007930416279296/ae74d386b91c422ea7f50dd69250ba27/artifacts
+end_time: 1772707129026
+entry_point_name: ''
+experiment_id: '675007930416279296'
+lifecycle_stage: active
+run_id: ae74d386b91c422ea7f50dd69250ba27
+run_name: suave-mouse-757
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772707124030
+status: 3
+tags: []
+user_id: codespace

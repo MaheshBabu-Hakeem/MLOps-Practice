@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/644274434992735981/0e7e914aa86f43059d9b22f1d9a60cc2/artifacts
+end_time: 1772970410061
+entry_point_name: ''
+experiment_id: '644274434992735981'
+lifecycle_stage: active
+run_id: 0e7e914aa86f43059d9b22f1d9a60cc2
+run_name: invincible-stork-99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772970404228
+status: 3
+tags: []
+user_id: codespace

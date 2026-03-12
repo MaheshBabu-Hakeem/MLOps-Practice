@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/360932150560691143/14c8f1296d2d43c3b3a31143f753b662/artifacts
+end_time: 1772970037852
+entry_point_name: ''
+experiment_id: '360932150560691143'
+lifecycle_stage: active
+run_id: 14c8f1296d2d43c3b3a31143f753b662
+run_name: honorable-mare-593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772970030531
+status: 3
+tags: []
+user_id: codespace

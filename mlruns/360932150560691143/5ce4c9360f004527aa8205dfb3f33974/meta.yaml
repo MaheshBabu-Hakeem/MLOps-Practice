@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/360932150560691143/5ce4c9360f004527aa8205dfb3f33974/artifacts
+end_time: 1772968127054
+entry_point_name: ''
+experiment_id: '360932150560691143'
+lifecycle_stage: active
+run_id: 5ce4c9360f004527aa8205dfb3f33974
+run_name: mysterious-ram-33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772968117794
+status: 3
+tags: []
+user_id: codespace

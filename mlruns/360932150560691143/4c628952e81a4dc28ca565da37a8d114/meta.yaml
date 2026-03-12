@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/360932150560691143/4c628952e81a4dc28ca565da37a8d114/artifacts
+end_time: 1772969763934
+entry_point_name: ''
+experiment_id: '360932150560691143'
+lifecycle_stage: active
+run_id: 4c628952e81a4dc28ca565da37a8d114
+run_name: gentle-finch-118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772969759972
+status: 3
+tags: []
+user_id: codespace

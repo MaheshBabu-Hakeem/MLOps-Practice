@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/360932150560691143/999a10441ad244b8ae09a0127a732ec3/artifacts
+end_time: 1772969227693
+entry_point_name: ''
+experiment_id: '360932150560691143'
+lifecycle_stage: active
+run_id: 999a10441ad244b8ae09a0127a732ec3
+run_name: judicious-mouse-994
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772969221309
+status: 3
+tags: []
+user_id: codespace

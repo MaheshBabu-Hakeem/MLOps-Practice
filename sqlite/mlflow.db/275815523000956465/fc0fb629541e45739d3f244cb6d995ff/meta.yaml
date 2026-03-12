@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/fc0fb629541e45739d3f244cb6d995ff/artifacts
+end_time: 1772707034575
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: fc0fb629541e45739d3f244cb6d995ff
+run_name: omniscient-foal-519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772707024182
+status: 3
+tags: []
+user_id: codespace

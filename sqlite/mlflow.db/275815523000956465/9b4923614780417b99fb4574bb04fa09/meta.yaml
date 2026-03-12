@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/9b4923614780417b99fb4574bb04fa09/artifacts
+end_time: 1772706168807
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: 9b4923614780417b99fb4574bb04fa09
+run_name: entertaining-auk-118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772706165347
+status: 3
+tags: []
+user_id: codespace

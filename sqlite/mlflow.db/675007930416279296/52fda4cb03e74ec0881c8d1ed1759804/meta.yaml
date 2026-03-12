@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675007930416279296/52fda4cb03e74ec0881c8d1ed1759804/artifacts
+end_time: 1772704920197
+entry_point_name: ''
+experiment_id: '675007930416279296'
+lifecycle_stage: active
+run_id: 52fda4cb03e74ec0881c8d1ed1759804
+run_name: intelligent-bug-385
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772704920136
+status: 4
+tags: []
+user_id: codespace

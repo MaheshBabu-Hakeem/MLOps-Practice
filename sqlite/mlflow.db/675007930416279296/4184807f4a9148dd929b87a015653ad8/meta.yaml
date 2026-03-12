@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675007930416279296/4184807f4a9148dd929b87a015653ad8/artifacts
+end_time: 1772708188776
+entry_point_name: ''
+experiment_id: '675007930416279296'
+lifecycle_stage: active
+run_id: 4184807f4a9148dd929b87a015653ad8
+run_name: nervous-foal-195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772708183758
+status: 3
+tags: []
+user_id: codespace

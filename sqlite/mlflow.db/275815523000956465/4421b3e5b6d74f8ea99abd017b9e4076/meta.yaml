@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/4421b3e5b6d74f8ea99abd017b9e4076/artifacts
+end_time: 1772716229663
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: 4421b3e5b6d74f8ea99abd017b9e4076
+run_name: loud-goat-329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772716219604
+status: 3
+tags: []
+user_id: codespace

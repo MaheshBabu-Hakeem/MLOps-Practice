@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675007930416279296/a21bfcd0552c4fc8964631d40b13ac39/artifacts
+end_time: 1772713565909
+entry_point_name: ''
+experiment_id: '675007930416279296'
+lifecycle_stage: active
+run_id: a21bfcd0552c4fc8964631d40b13ac39
+run_name: gentle-goat-886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772713560129
+status: 3
+tags: []
+user_id: codespace

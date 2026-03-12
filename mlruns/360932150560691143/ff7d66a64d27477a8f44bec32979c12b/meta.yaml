@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/360932150560691143/ff7d66a64d27477a8f44bec32979c12b/artifacts
+end_time: 1772970077484
+entry_point_name: ''
+experiment_id: '360932150560691143'
+lifecycle_stage: active
+run_id: ff7d66a64d27477a8f44bec32979c12b
+run_name: righteous-turtle-791
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772970071532
+status: 3
+tags: []
+user_id: codespace

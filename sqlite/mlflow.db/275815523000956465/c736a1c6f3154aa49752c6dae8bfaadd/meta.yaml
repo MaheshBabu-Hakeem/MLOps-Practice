@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/c736a1c6f3154aa49752c6dae8bfaadd/artifacts
+end_time: 1772703992869
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: c736a1c6f3154aa49752c6dae8bfaadd
+run_name: able-shad-122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772703991738
+status: 3
+tags: []
+user_id: codespace

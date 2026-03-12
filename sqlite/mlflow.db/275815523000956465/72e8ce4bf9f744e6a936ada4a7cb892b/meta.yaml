@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/72e8ce4bf9f744e6a936ada4a7cb892b/artifacts
+end_time: 1772707671065
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: 72e8ce4bf9f744e6a936ada4a7cb892b
+run_name: tasteful-skink-217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772707665989
+status: 3
+tags: []
+user_id: codespace

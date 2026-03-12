@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/600621882699592542/a4085b603e784dab8721dfeaaf35da67/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '600621882699592542'
+lifecycle_stage: active
+run_id: a4085b603e784dab8721dfeaaf35da67
+run_name: honorable-rook-739
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772699380876
+status: 1
+tags: []
+user_id: codespace

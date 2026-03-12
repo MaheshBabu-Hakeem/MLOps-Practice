@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/1e16b349e9794db88e514aaabaf21139/artifacts
+end_time: 1772706605896
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: 1e16b349e9794db88e514aaabaf21139
+run_name: melodic-perch-80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772706599194
+status: 3
+tags: []
+user_id: codespace

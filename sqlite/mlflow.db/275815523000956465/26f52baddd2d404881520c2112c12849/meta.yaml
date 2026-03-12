@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/26f52baddd2d404881520c2112c12849/artifacts
+end_time: 1772703940315
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: 26f52baddd2d404881520c2112c12849
+run_name: secretive-gnu-633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772703939651
+status: 3
+tags: []
+user_id: codespace

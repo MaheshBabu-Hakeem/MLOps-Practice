@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/632030226643455504/ded09d1ae428442eb991b2e2567cb004/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '632030226643455504'
+lifecycle_stage: active
+run_id: ded09d1ae428442eb991b2e2567cb004
+run_name: glamorous-seal-216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772694420499
+status: 1
+tags: []
+user_id: codespace

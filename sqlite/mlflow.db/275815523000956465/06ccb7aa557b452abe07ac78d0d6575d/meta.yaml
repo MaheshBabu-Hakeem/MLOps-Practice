@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/06ccb7aa557b452abe07ac78d0d6575d/artifacts
+end_time: 1772706148291
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: 06ccb7aa557b452abe07ac78d0d6575d
+run_name: popular-hawk-467
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772706138725
+status: 3
+tags: []
+user_id: codespace

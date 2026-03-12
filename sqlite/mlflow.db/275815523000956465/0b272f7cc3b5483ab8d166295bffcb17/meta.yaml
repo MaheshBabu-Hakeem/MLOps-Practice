@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/0b272f7cc3b5483ab8d166295bffcb17/artifacts
+end_time: 1772716285851
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: 0b272f7cc3b5483ab8d166295bffcb17
+run_name: stylish-ant-642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772716282205
+status: 3
+tags: []
+user_id: codespace

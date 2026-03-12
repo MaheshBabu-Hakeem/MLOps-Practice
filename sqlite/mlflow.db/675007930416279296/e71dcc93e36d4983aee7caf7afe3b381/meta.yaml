@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675007930416279296/e71dcc93e36d4983aee7caf7afe3b381/artifacts
+end_time: 1772712616530
+entry_point_name: ''
+experiment_id: '675007930416279296'
+lifecycle_stage: active
+run_id: e71dcc93e36d4983aee7caf7afe3b381
+run_name: treasured-lark-355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772712611123
+status: 3
+tags: []
+user_id: codespace

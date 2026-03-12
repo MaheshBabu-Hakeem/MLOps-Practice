@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/360932150560691143/d084079f44f346d291e6fcda2acc2a99/artifacts
+end_time: 1772968973130
+entry_point_name: ''
+experiment_id: '360932150560691143'
+lifecycle_stage: active
+run_id: d084079f44f346d291e6fcda2acc2a99
+run_name: ambitious-panda-892
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772968972296
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/275815523000956465/4d88bd1a53e34b53933308bcd43b594a/artifacts
+end_time: 1772707013531
+entry_point_name: ''
+experiment_id: '275815523000956465'
+lifecycle_stage: active
+run_id: 4d88bd1a53e34b53933308bcd43b594a
+run_name: efficient-tern-893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772707013149
+status: 3
+tags: []
+user_id: codespace

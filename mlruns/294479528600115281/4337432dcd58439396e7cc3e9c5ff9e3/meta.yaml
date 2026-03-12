@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/294479528600115281/4337432dcd58439396e7cc3e9c5ff9e3/artifacts
+end_time: 1772698162445
+entry_point_name: ''
+experiment_id: '294479528600115281'
+lifecycle_stage: active
+run_id: 4337432dcd58439396e7cc3e9c5ff9e3
+run_name: awesome-finch-984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772698147664
+status: 3
+tags: []
+user_id: codespace
